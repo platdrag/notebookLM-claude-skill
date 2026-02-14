@@ -1,4 +1,4 @@
-# notebooklm — Claude Code Plugin
+# Notebooklm — Claude Code Plugin
 
 A Claude Code plugin that lets you query your [Google NotebookLM](https://notebooklm.google.com) notebooks directly from your coding session. Ask domain-specific questions and get grounded, cited answers from your uploaded sources — without leaving your editor.
 
