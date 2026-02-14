@@ -1,0 +1,9 @@
+{
+  "name": "notebooklm",
+  "description": "Query your Google NotebookLM notebooks as a RAG knowledge base directly from Claude Code. Install the CLI, authenticate, and ask questions grounded in your uploaded sources.",
+  "version": "1.0.0",
+  "author": {
+    "name": "platdrag"
+  },
+  "license": "MIT"
+}

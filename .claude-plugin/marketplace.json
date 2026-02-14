@@ -1,0 +1,17 @@
+{
+  "name": "notebooklm-marketplace",
+  "owner": {
+    "name": "platdrag"
+  },
+  "metadata": {
+    "description": "NotebookLM plugin for Claude Code — query your Google NotebookLM notebooks as a knowledge base"
+  },
+  "plugins": [
+    {
+      "name": "notebooklm",
+      "source": "./",
+      "description": "Query your Google NotebookLM notebooks as a RAG knowledge base directly from Claude Code.",
+      "version": "1.0.0"
+    }
+  ]
+}

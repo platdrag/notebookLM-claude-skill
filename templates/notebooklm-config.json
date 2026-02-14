@@ -1,0 +1,10 @@
+{
+  "defaultNotebook": null,
+  "notebooks": {},
+  "settings": {
+    "mode": "concise",
+    "responseLength": "default",
+    "persona": null
+  },
+  "_instructions": "Run /notebooklm:setup to configure. Use 'notebooklm list' to find notebook IDs."
+}
