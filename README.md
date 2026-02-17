@@ -27,14 +27,14 @@ A Claude Code plugin that lets you query your [Google NotebookLM](https://notebo
 Add the marketplace and install the plugin:
 
 ```
-/plugin marketplace add <your-username>/notebooklm
+/plugin marketplace add platdrag/notebookLM-claude-skill
 /plugin install notebooklm@notebooklm-marketplace
 ```
 
 ### Option B: Clone and install locally
 
 ```bash
-git clone https://github.com/<your-username>/notebooklm.git
+git clone https://github.com/platdrag/notebookLM-claude-skill
 ```
 
 Then add it as a local marketplace and install:
